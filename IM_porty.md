@@ -1,3 +1,5 @@
+# Porty w nakładce zestawu Inteligentne Miasto
+
 <table border="1" cellpadding="5" align="center">
 <tr align="center">
   <td rowspan="2"><img src="IDC-6.jpg"></td>
@@ -56,3 +58,6 @@
   <td>D13</td>
 </tr>
 </table>
+
+Opracowane na podstawie analizy kodu programu **Inteligentne Miasto** [link] (http://cyfrowyodkrywca.pl/InteligentneMiasto/jak-to-dziala/#do_pobrania) i analizy płytki PCB nakładki (*shield'u*) na Arduino.
+
