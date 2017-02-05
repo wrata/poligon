@@ -2,7 +2,7 @@
 
 <table border="1" cellpadding="5" align="center">
 <tr align="center">
-  <td rowspan="2"><img src="IDC-6.jpg"></td>
+  <td rowspan="2"><img src="IDC-6.jpg" /></td>
   <td colspan="2">Zasilanie</td>
   <td colspan="4">Piny Arduino UNO</td>
 </tr>
@@ -60,4 +60,8 @@
 </table>
 
 Opracowane na podstawie analizy kodu programu **Inteligentne Miasto** [link] (http://cyfrowyodkrywca.pl/InteligentneMiasto/jak-to-dziala/#do_pobrania) i analizy płytki PCB nakładki (*shield'u*) na Arduino.
+
+<img src="IM-shield.jpg" />
+
+
 
