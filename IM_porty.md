@@ -61,7 +61,7 @@
 
 Opracowane na podstawie analizy kodu programu **Inteligentne Miasto** [link] (http://cyfrowyodkrywca.pl/InteligentneMiasto/jak-to-dziala/#do_pobrania) i analizy płytki PCB nakładki (*shield'u*) na Arduino.
 
-<img src="IM-shield.jpg" />
+<img src="IM_shield.jpg" />
 
 
 
